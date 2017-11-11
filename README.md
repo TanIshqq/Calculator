@@ -8,6 +8,6 @@
 - Decimal
 - Clear
 
-**Gives Answer in Float(Decimal Values).**
-**On pressing Clear all history deleted.**
+- **Gives Answer in Float(Decimal Values).**
+- **On pressing Clear all history deleted.**
 
